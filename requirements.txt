@@ -1,0 +1,5 @@
+streamlit
+pillow
+arabic-reshaper
+python-bidi
+streamlit-image-coordinates
